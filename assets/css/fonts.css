@@ -1,0 +1,52 @@
+@font-face {
+    font-family: "Museo Sans";
+    src: url("../fonts/museosans/museosans-300.woff2") format("woff2"),
+      url("../fonts/museosans/museosans-300.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Museo Sans";
+    src: url("../fonts/museosans/museosans-500.woff2") format("woff2"),
+      url("../fonts/museosans/museosans-500.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Museo Sans";
+    src: url("../fonts/museosans/museosans-900.woff2") format("woff2"),
+      url("../fonts/museosans/museosans-900.woff") format("woff");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Adobe Garamond Pro";
+    src: url("../fonts/agaramondpro/agaramondpro-regular.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Adobe Garamond Pro";
+    src: url("../fonts/agaramondpro/agaramondpro-Italic.otf") format("opentype");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Adobe Garamond Pro";
+    src: url("../fonts/agaramondpro/agaramondpro-bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+  }
+  @font-face {
+    font-family: "Adobe Garamond Pro";
+    src: url("../fonts/agaramondpro/agaramondpro-bolditalic.otf") format("opentype");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+  }
